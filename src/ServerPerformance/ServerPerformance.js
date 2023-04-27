@@ -22,4 +22,4 @@ function ServerPerformance() {
   );
 }
 
-export default App;
+export default ServerPerformance;
